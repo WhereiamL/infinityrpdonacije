@@ -1,1 +1,35 @@
-[fivem-donation-list.md](https://github.com/user-attachments/files/19039611/fivem-donation-list.md)
+# Infinity Roleplay Server - Lista Donacija
+
+## Organizacije
+| Stavka | Cijena |
+|--------|--------|
+| Organizacija (Mjesečno) | 30€ |
+| Lockovana vrata za organizaciju | 15€ |
+
+## Vozila
+| Stavka | Cijena |
+|--------|--------|
+| Vozila | Od 40€ (zavisi od modela) |
+| Tablice za auto | 5€ |
+| Broj po želji | 10€ |
+
+## Nekretnine
+| Stavka | Cijena |
+|--------|--------|
+| Kuća sa MLO (stash, garaža, itd.) | Od 40€ (zavisi od MLO-a) |
+
+## Custom MLO
+| Stavka | Cijena |
+|--------|--------|
+| Custom MLO | Od 40€ (zavisi od samog MLO-a) |
+
+## Kako donirati
+Molimo kontaktirajte administratora servera za obradu donacija i isporuku stavki.
+
+## Napomene
+- Sve cijene su izražene u Eurima (€)
+- Cijene vozila variraju zavisno od traženog modela
+- Cijene nekretnina i MLO-a variraju zavisno od kompleksnosti i veličine
+- Sve donacije direktno podržavaju održavanje i razvoj servera
+
+*Hvala što podržavate našu Infinity Roleplay zajednicu!*
