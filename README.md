@@ -31,5 +31,5 @@ Molimo kontaktirajte administratora servera za obradu donacija i isporuku stavki
 - Cijene vozila variraju zavisno od traženog modela
 - Cijene nekretnina i MLO-a variraju zavisno od kompleksnosti i veličine
 - Sve donacije direktno podržavaju održavanje i razvoj servera
-
+- Donacije se u bilo kojoj situaciji ne mgou refundirati ili vratiti, to je vasa dobra volja da li zelite da podrzite sami rad servera. Prilikom doniranja prihvacate da refund ispada iz opcijr.
 *Hvala što podržavate našu Infinity Roleplay zajednicu!*
